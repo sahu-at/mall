@@ -1,1 +1,11 @@
 1260
+
+---- New Order ----
+Burger x 2 = 200
+Margherita x 2 = 400
+Total: 630
+
+--- New Order ---
+Fries x 2 = 160
+Sandwich x 3 = 360
+Final Total: 546

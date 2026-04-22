@@ -12,7 +12,7 @@ bool adminLogin() {
     cout << "Password: ";
     cin >> pass;
 
-    if (user == "admin" && pass == "mall123") {
+    if (user == "q" && pass == "1") {
         cout << "Login Successful!\n";
         return true;
     } else {
